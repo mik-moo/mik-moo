@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a data analyst with a science background and a passion for learning new skills.
+
 <!--
 **mik-moo/mik-moo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
